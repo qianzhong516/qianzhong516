@@ -16,7 +16,7 @@ A happy and enthusiastic programmer. I'm currently learning ReactJS and NodeJS. 
 
 ---
 
-<div style="display: inline-block;">
+<div style="display: flex; justify-content: space-between;">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianzhong516"
   />
