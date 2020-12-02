@@ -16,12 +16,12 @@ A happy and enthusiastic programmer. I'm currently learning ReactJS and NodeJS. 
 
 ---
 
-<div style="display: flex !important; justify-content: space-between !important;">
+<p float="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianzhong516"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=qianzhong516&count_private=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=000000&custom_title=Janice+Zhong's+GitHub+Stats&show_icons=true" height=245 />
-</div>
+</p>
 
 ## :bookmark_tabs: My Portfolio
 **ReactJS** | **Wordpress**
