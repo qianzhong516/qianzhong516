@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janice 
+# <img src="https://github.com/qianzhong516/qianzhong516/blob/main/wave.gif" alt="wave" width=35 /> Hi, I'm Janice 
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000&style=for-the-badge" />
