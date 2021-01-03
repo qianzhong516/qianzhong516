@@ -21,9 +21,9 @@ A happy and enthusiastic programmer. I'm currently learning ReactJS and NodeJS. 
   /><img src="https://github-readme-stats.vercel.app/api?username=qianzhong516&count_private=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=000000&custom_title=Janice+Zhong's+GitHub+Stats&show_icons=true" height=204 />
 
 ## :bookmark_tabs: My Portfolio
-**ReactJS** | **Wordpress**
------------ | --------------
-<ul><li>[Petrol Master](https://pertrol-03012021.herokuapp.com/)</li></ul> | <ul><li>[Green horizon](http://green-horizon.com.au/) - custom</li><li>[Dial a plan](https://dialaplan.com.au/) - custom </li><li>[BPC](http://bpcaustralia.com/) - based on a purchased theme</li></ul>
+| **ReactJS** | **Wordpress**|
+|----------- | --------------|
+| <ul><li>[Petrol Master](https://pertrol-03012021.herokuapp.com/)</li></ul> | <ul><li>[Green horizon](http://green-horizon.com.au/)</li> <li>[Dial a plan](https://dialaplan.com.au/)</li> <li>[BPC](http://bpcaustralia.com/)</li></ul> |
 
 
 ## 📫 Get in touch with me
