@@ -22,7 +22,7 @@ A happy and enthusiastic front-end developer. My goal is to be a full stack web 
   /><img src="https://github-readme-stats.vercel.app/api?username=qianzhong516&count_private=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=000000&custom_title=Janice+Zhong's+GitHub+Stats&show_icons=true" height=204 />
 
 ## :bookmark_tabs: My Portfolio
-| **ReactJS** | **Wordpress**| **JS Plugins**|
+| **MERN** | **Wordpress**| **JS Plugins**|
 |----------- | --------------| --------------|
 | <ul><li><a target="_blank" href="https://mighty-retreat-61783.herokuapp.com/">!Psst</li></ul><ul><li><a target="_blank" href="https://pertrol-03012021.herokuapp.com/">Petrol Master</a></li></ul> | <ul><li><a target="_blank" href="http://green-horizon.com.au/">Green horizon</a></li> <li><a target="_blank" href="https://dialaplan.com.au/">Dial a plan</a></li> <li><a href="http://bpcaustralia.com/">BPC</a></li></ul> | <ul><li>[Easy Calendar](https://qianzhong516.github.io/JsPlugin-easyCalendar/)</li></ul> |
 
