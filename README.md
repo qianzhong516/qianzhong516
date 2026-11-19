@@ -26,7 +26,7 @@ I'm particularly interested in building reliable, scalable systems and understan
 
 ## :rocket: Featured Project
 
-**FileOps — Cloud-Native File Processing Platform**
+**[FileOps — Cloud-Native File Processing Platform](https://github.com/qianzhong516/fileops-platform)**
 
 A hands-on engineering project exploring production-oriented platform practices, including:
 
