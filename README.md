@@ -1,32 +1,50 @@
-# <img src="https://github.com/qianzhong516/qianzhong516/blob/main/wave.gif" alt="wave" width=35 /> Hi, I'm Janice 
+# <img src="https://github.com/qianzhong516/qianzhong516/blob/main/wave.gif" alt="wave" width=35 /> Hi, I'm Janice
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000000&style=for-the-badge" />
-  <img alt="NodeJs" src="https://img.shields.io/badge/Node.JS-339933?logo=Node.Js&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
-  <img alt="VueJS" src="https://img.shields.io/badge/Vue.JS-41B883?logo=Vue.js&logoColor=ffffff&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-2b5b84?logo=python&logoColor=ffffff&style=for-the-badge" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=for-the-badge" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-</p>
+I'm a Cloud/DevOps engineer based in Australia, with a background in frontend engineering and running my own small web development business.
 
-## :smile: About Me
+My curiosity about how systems work beyond application code led me into Cloud and DevOps engineering, where all things in engineering come together.
 
-A happy and enthusiastic front-end developer. My goal is to be a full stack web developer. My current focus is on the frontend. I'm experienced in MERN stack, customised WordPress themes, third-party APIs and custom JS plugins.
+I'm particularly interested in building reliable, scalable systems and understanding how they behave when things go wrong.
 
----
+## 🛠️ Tech Stack
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianzhong516" width=250
-  /><img src="https://github-readme-stats.vercel.app/api?username=qianzhong516&count_private=true&title_color=61DAFB&icon_color=61DAFB&text_color=ffffff&bg_color=000000&custom_title=Janice+Zhong's+GitHub+Stats&show_icons=true" height=204 />
+**Cloud & Infrastructure**
 
-## :bookmark_tabs: My Portfolio
-| **MERN** | **NodeJS** | **JS Plugins**| **Wordpress** |
-|----------- | --------------| --------------| --------------|
-| <ul><li><a target="_blank" href="https://mighty-retreat-61783.herokuapp.com/">!Psst</li></ul><ul><li><a target="_blank" href="https://pertrol-03012021.herokuapp.com/">Petrol Master</a></li></ul> | <ul><li><a target="_blank" href="https://gobangfun.herokuapp.com/">Realtime Gobang (socket.io)</a></li></ul> | <ul><li>[Easy Calendar](https://qianzhong516.github.io/JsPlugin-easyCalendar/)</li><li>[Line Graph](https://qianzhong516.github.io/js-line-graph/)</li><li>[Dynamic Pagination](https://qianzhong516.github.io/dynamicPagination/)</li></ul> | <ul><li><a target="_blank" href="http://green-horizon.com.au/">Green horizon</a></li> <li><a target="_blank" href="https://dialaplan.com.au/">Dial a plan</a></li></ul> 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+**CI/CD & GitOps**
 
-## 📫 Get in touch with me
-If you have any questions on any of my projects, welcome to message me anytime via [zhongqian516@gmail.com](mailto:zhongqian516@gmail.com). If not, feel free to drop me a message anyways! :stuck_out_tongue:
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**Observability & Scaling**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge) ![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=for-the-badge)
+
+**Programming & Scripting**
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+## :rocket: Featured Project
+
+**FileOps — Cloud-Native File Processing Platform**
+
+A hands-on engineering project exploring production-oriented platform practices, including:
+
+- Infrastructure: AWS EKS, Terraform, Karpenter
+- Delivery: GitHub Actions, Argo CD (GitOps)
+- Scalability: KEDA-based workload autoscaling
+- Observability: Prometheus and Grafana
+- Reliability: Fault-tolerant background job processing and recovery
+
+## :pen: Learning in Public
+
+I enjoy documenting my lessons learned and discoveries along the way. You can find my writing on:
+
+- Medium - [OpsForge](https://medium.com/@opsforge)
+- [DEV.to](https://dev.to/dashboard)
+
+## :coffee: Let's Connect!
+
+I'm always happy to discuss engineering challenges, explore collaboration opportunities, or just have a friendly chat.
+
+Feel free to reach out at ads.gutless810@passinbox.com :)
